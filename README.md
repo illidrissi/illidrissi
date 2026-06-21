@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- Top Profile Banner & Avatar -->
-  <img src="https://github.com/eli-mouad.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #3b82f6; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.4);" alt="Mouad Ellidrissi">
-
   <h1>Mouad Ellidrissi 👋</h1>
   <p><strong>Software Engineering Student & Full-Stack Developer</strong></p>
 
