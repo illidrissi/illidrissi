@@ -1,8 +1,12 @@
 <div align="center">
-  <h1>Mouad Ellidrissi 👋</h1>
-  <p><strong>Software Engineering Student & Full-Stack Developer</strong></p>
+  <!-- Premium Animated Header Element -->
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Mouad%20Ellidrissi&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner">
 
-  <!-- Premium Communication & Social Badges -->
+  <p align="center">
+    <strong>🚀 Software Engineering Student (Bac+5) & Full-Stack Freelance Developer</strong>
+  </p>
+
+  <!-- Premium Minimalist Social & Communication Badges -->
   <a href="https://3-dooots.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/eli-mouad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:illidrissimouad7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -13,11 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stack Freelance Developer**. I bridge the gap between complex architectural design patterns, secure backend development, and high-performance user interfaces. 
+I am an engineering student specializing in scalable systems and full-stack architecture. I bridge the gap between complex architectural design patterns, secure backend development, and high-performance user interfaces.
 
-* 🚀 **Freelancing Framework:** Over 3 years managing complete project lifecycles—from initial requirement gathering straight through to cloud deployments.
-* 🔒 **Engineering Mindset:** Highly focused on client-server architectures, microservices, cloud ecosystems, and data integrity.
-* 🎨 **UI/UX Obsessed:** Designing accessible layouts using token-based modern frameworks, optimized for cross-device performance.
+* **🚀 Freelancing Framework:** Over 3 years managing complete project lifecycles—from initial requirement gathering straight through to cloud deployments.
+* **🔒 Engineering Mindset:** Highly focused on client-server architectures, microservices, cloud ecosystems, and data integrity.
+* **🎨 UI/UX Obsessed:** Designing accessible layouts using token-based modern frameworks, optimized for cross-device performance.
 
 ---
 
@@ -27,34 +31,34 @@ I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stac
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Frontend Ecosystem</h4>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn">
-      <br>
-      <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+      <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+      <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+      <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
+      <a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn"></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angular&logoColor=white" alt="Angular">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Systems</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+      <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+      <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+      <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
+      <br><br>
       <img src="https://img.shields.io/badge/Java_JEE-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JEE">
-      <br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💾 Storage, Modeling & Architecture</h4>
+      <h4>💾 Storage & Modeling</h4>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       <br>
-      <img src="https://img.shields.io/badge/UML_/_MERISE-Data_Modeling-blue?style=flat-square" alt="Modeling">
+      <img src="https://img.shields.io/badge/Data_Modeling-UML_/_MERISE-blue?style=flat-square" alt="Modeling">
     </td>
     <td width="50%" valign="top">
       <h4>☁️ DevOps & Tools</h4>
@@ -73,25 +77,49 @@ I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stac
 
 ## 💼 Highlighted Engineering Projects
 
-### 🛠️ [Ti9ani.ma](https://www.ti9ani.ma/) — Technicians Marketplace
-* **Problem:** In Morocco, finding reliable technicians relies on uncertain word-of-mouth, lacking price transparency and quality assurance.
-* **Solution:** Centralized marketplace featuring verified profiles, a competitive bidding system, and real-time dashboard tracking to maximize trust and service quality.
-* **Stack:** `Next.js` | `MongoDB` | `NextAuth` | `TypeScript` | `Framer Motion` | `shadcn/ui`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://www.ti9ani.ma/">Ti9ani.ma</a></h3>
+      <p><strong>Technicians Marketplace</strong></p>
+      <p>❌ <strong>Problem:</strong> In Morocco, finding reliable technicians relies on uncertain word-of-mouth, lacking transparency.</p>
+      <p>✅ <strong>Solution:</strong> Centralized marketplace featuring verified profiles, competitive bidding, and dashboard tracking.</p>
+      <p>📦 <code>Next.js</code> • <code>MongoDB</code> • <code>NextAuth</code> • <code>TypeScript</code> • <code>shadcn</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ EZSupply</h3>
+      <p><strong>Advanced 4-Tier ERP & Inventory</strong></p>
+      <p>❌ <strong>Problem:</strong> SMEs face fragmented data pipelines, tracking inaccuracies, and disconnected sales reports.</p>
+      <p>✅ <strong>Solution:</strong> Architectural system automating enterprise data flows, ensuring integrity and offering data cubes.</p>
+      <p>📦 <code>.NET Blazor</code> • <code>Jakarta EE</code> • <code>C#</code> • <code>SQL Server</code> • <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👟 <a href="https://sneakers-eco.netlify.app/">Sneakers Platform</a></h3>
+      <p><strong>E-Commerce & Retail Terminal</strong></p>
+      <p>❌ <strong>Problem:</strong> Shoppers lack fluid footwear options; businesses struggle with stock management and analytics.</p>
+      <p>✅ <strong>Solution:</strong> Commerce portal engineered with an admin terminal to manage stock transactions and payment relays.</p>
+      <p>📦 <code>React.js</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Express</code> • <code>Stripe API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 MediCare</h3>
+      <p><strong>Healthcare Analytics System</strong></p>
+      <p>❌ <strong>Problem:</strong> Clinical systems get choked by manual verification and disjointed records, causing triage bottlenecks.</p>
+      <p>✅ <strong>Solution:</strong> Enterprise Java system with stateless session beans to automatically compute clinical priority flows.</p>
+      <p>📦 <code>Java Core</code> • <code>Jakarta EE</code> • <code>EJB 3.2</code> • <code>MySQL</code> • <code>WildFly</code></p>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ EZSupply — Advanced 4-Tier ERP & Inventory System
-* **Problem:** Small and medium enterprises face fragmented data pipelines, manual tracking inaccuracies, and disconnected sales reports.
-* **Solution:** High-performance architectural system automating enterprise data flows, ensuring full data integrity, and offering analytical precision via data cubes.
-* **Stack:** `.NET Blazor` | `Jakarta EE` | `C#` | `SQL Server` | `Azure VM` | `Docker`
+---
 
-### 👟 [Sneakers E-Commerce Platform](https://sneakers-eco.netlify.app/)
-* **Problem:** Shoppers lack secure, fluid digital footwear marketplaces, while businesses run into hurdles managing inventory scales and backend operational analytics.
-* **Solution:** User-centric commerce portal engineered with an embedded premium admin terminal to manage stock transactions, tracking histories, and payment relays effortlessly.
-* **Stack:** `React.js` | `Node.js` | `MongoDB` | `Express` | `Stripe API` | `Redux` | `Netlify`
+## 📊 Analytics & Deep Dive
 
-### 🏥 MediCare — Intelligent Healthcare Analytics & Management
-* **Problem:** Clinical systems get choked by manual verification protocols and disjointed data records, causing operational triage bottlenecks.
-* **Solution:** Enterprise Java healthcare system featuring distributed architecture with stateless session beans to automatically compute clinical priority flows instantly.
-* **Stack:** `Java Core` | `Jakarta EE` | `EJB 3.2` | `MySQL` | `WildFly` | `Vanilla JS`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eli-mouad&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-mouad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
 
 ---
 
@@ -99,7 +127,7 @@ I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stac
 
 I am always open to discussing new freelance engineering opportunities, system architectures, or full-stack software positions.
 
-* 📱 **Phone:** [+212 689-194873](tel:+212689194873)
-* 📧 **Email:** [illidrissimouad7@gmail.com](mailto:illidrissimouad7@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/eli-mouad](https://linkedin.com/in/eli-mouad)
-* 📍 **Location:** Rue Tichla N 10, El Marsa, Laayoune, Morocco
+<p align="center">
+  📍 <strong>Location:</strong> Rue Tichla N 10, El Marsa, Laayoune, Morocco <br>
+  📱 <strong>Phone:</strong> <a href="tel:+212689194873">+212 689-194873</a> | 📧 <strong>Email:</strong> <a href="mailto:illidrissimouad7@gmail.com">illidrissimouad7@gmail.com</a>
+</p>
