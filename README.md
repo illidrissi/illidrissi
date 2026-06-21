@@ -95,15 +95,6 @@ I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stac
 
 ---
 
-## 📈 Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eli-mouad&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-mouad&layout=compact&theme=tokyonight" alt="Top Languages" height="180">
-</div>
-
----
-
 ## 📞 Let's Collaborate
 
 I am always open to discussing new freelance engineering opportunities, system architectures, or full-stack software positions.
