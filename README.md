@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Premium Animated Header Element -->
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Mouad%20Ellidrissi&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner">
+  <div align="center">
 
-  <p align="center">
-    <strong>🚀 Software Engineering Student (Bac+5) & Full-Stack Freelance Developer</strong>
-  </p>
+  <h1>Mouad Ellidrissi 👋</h1>
+
+  <p><strong>Software Engineering Student & Full-Stack Developer</strong></p>
 
   <!-- Premium Minimalist Social & Communication Badges -->
   <a href="https://3-dooots.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -111,15 +111,6 @@ I am an engineering student specializing in scalable systems and full-stack arch
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Analytics & Deep Dive
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eli-mouad&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-mouad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
 
 ---
 
