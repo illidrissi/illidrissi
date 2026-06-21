@@ -6,21 +6,21 @@
   <p><strong>Software Engineering Student & Full-Stack Developer</strong></p>
 
   <!-- Premium Communication & Social Badges -->
+  <a href="https://3-dooots.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/eli-mouad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:illidrissimouad7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="tel:+212689194873"><img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
-  <a href="https://3-dooots.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stack Freelance Developer**. I bridge the gap between complex architectural design Patterns, secure backend development, and high-performance user interfaces. 
+I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stack Freelance Developer**. I bridge the gap between complex architectural design patterns, secure backend development, and high-performance user interfaces. 
 
 * 🚀 **Freelancing Framework:** Over 3 years managing complete project lifecycles—from initial requirement gathering straight through to cloud deployments.
-* 🔒 **Engineering Mindset:** Highly focused on client-server architectures, microservices, cloud ecosystems, and data integrity[cite: 1].
-* 🎨 **UI/UX Obsessed:** Designing accessible layouts using token-based modern frameworks, optimized for cross-device performance[cite: 1].
+* 🔒 **Engineering Mindset:** Highly focused on client-server architectures, microservices, cloud ecosystems, and data integrity.
+* 🎨 **UI/UX Obsessed:** Designing accessible layouts using token-based modern frameworks, optimized for cross-device performance.
 
 ---
 
@@ -76,20 +76,25 @@ I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stac
 
 ## 💼 Highlighted Engineering Projects
 
-### 🗄️ EZSupply — 4-Tier ERP Ecosystem
-* Developed a scalable distributed infrastructure separating business layers to maximize resource tracking.
-* **Stack:** `.NET Blazor` | `Jakarta EE` | `SQL Server` | `Pentaho BI (ETL)`
-* Built customized multi-dimensional online analytical processing cubes providing immediate insight into platform inventory levels.
+### 🛠️ [Ti9ani.ma](https://www.ti9ani.ma/) — Technicians Marketplace
+* **Problem:** In Morocco, finding reliable technicians relies on uncertain word-of-mouth, lacking price transparency and quality assurance.
+* **Solution:** Centralized marketplace featuring verified profiles, a competitive bidding system, and real-time dashboard tracking to maximize trust and service quality.
+* **Stack:** `Next.js` | `MongoDB` | `NextAuth` | `TypeScript` | `Framer Motion` | `shadcn/ui`
 
-### 🛠️ Taqani.ma — Two-Way Marketplace Platform
-* Architectural system designed to serve and connect localized physical technician requests directly to Moroccan consumers.
-* **Stack:** `Next.js` | `Node.js` | `MongoDB` | `shadcn` | `Tailwind CSS`
-* Configured lightning-fast server side rendering metrics paired with dynamic styling systems.
+### 🗄️ EZSupply — Advanced 4-Tier ERP & Inventory System
+* **Problem:** Small and medium enterprises face fragmented data pipelines, manual tracking inaccuracies, and disconnected sales reports.
+* **Solution:** High-performance architectural system automating enterprise data flows, ensuring full data integrity, and offering analytical precision via data cubes.
+* **Stack:** `.NET Blazor` | `Jakarta EE` | `C#` | `SQL Server` | `Azure VM` | `Docker`
 
-### 🏋️ Energy Club — Access-Controlled Gym Engine
-* A complex operational hub combining standard business administration tooling directly with local physical security installations.
-* **Stack:** `MERN Stack (React, Express)` | `Tailwind CSS` | `Hikvision API Core`
-* Engineered real-time WebSocket messaging relays interacting across local networks directly to hardware turnstile setups.
+### 👟 [Sneakers E-Commerce Platform](https://sneakers-eco.netlify.app/)
+* **Problem:** Shoppers lack secure, fluid digital footwear marketplaces, while businesses run into hurdles managing inventory scales and backend operational analytics.
+* **Solution:** User-centric commerce portal engineered with an embedded premium admin terminal to manage stock transactions, tracking histories, and payment relays effortlessly.
+* **Stack:** `React.js` | `Node.js` | `MongoDB` | `Express` | `Stripe API` | `Redux` | `Netlify`
+
+### 🏥 MediCare — Intelligent Healthcare Analytics & Management
+* **Problem:** Clinical systems get choked by manual verification protocols and disjointed data records, causing operational triage bottlenecks.
+* **Solution:** Enterprise Java healthcare system featuring distributed architecture with stateless session beans to automatically compute clinical priority flows instantly.
+* **Stack:** `Java Core` | `Jakarta EE` | `EJB 3.2` | `MySQL` | `WildFly` | `Vanilla JS`
 
 ---
 
@@ -104,9 +109,9 @@ I am a driven **Software Engineering Student (Bac+5)** and an active **Full-Stac
 
 ## 📞 Let's Collaborate
 
-I am always open to discussing new freelance engineering opportunities, system architectures, or full-stack software positions[cite: 1].
+I am always open to discussing new freelance engineering opportunities, system architectures, or full-stack software positions.
 
-* 📱 **Phone:** [+212 689-194873](tel:+212689194873)[cite: 1]
-* 📧 **Email:** [illidrissimouad7@gmail.com](mailto:illidrissimouad7@gmail.com)[cite: 1]
-* 💼 **LinkedIn:** [linkedin.com/in/eli-mouad](https://linkedin.com/in/eli-mouad)[cite: 1]
-* 📍 **Location:** Rue Tichla N 10, El Marsa, Laayoune, Morocco[cite: 1]
+* 📱 **Phone:** [+212 689-194873](tel:+212689194873)
+* 📧 **Email:** [illidrissimouad7@gmail.com](mailto:illidrissimouad7@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/eli-mouad](https://linkedin.com/in/eli-mouad)
+* 📍 **Location:** Rue Tichla N 10, El Marsa, Laayoune, Morocco
